@@ -15,7 +15,7 @@ Zhao Rui<sup>2</sup>&nbsp;
 Liwei Wu<sup>2</sup>&nbsp;
 Xiaoke Jiang<sup>4</sup> 
 
-<sup>1</sup> Harbin Institute of Technology, Shenzhen &nbsp; <sup>2</sup> SenseTime Research&nbsp; <sup>3</sup> JD.com, Inc&nbsp; <sup>4</sup> Xiaoke Jiang is with International Digital Economy Academy (IDEA)&nbsp;
+<sup>1</sup> Harbin Institute of Technology, Shenzhen &nbsp; <sup>2</sup> SenseTime Research&nbsp; <sup>3</sup> JD.com, Inc&nbsp; <sup>4</sup> International Digital Economy Academy (IDEA)&nbsp;
 <img src="assert/fig1.png" alt="Geo6D Framework">
 
   
