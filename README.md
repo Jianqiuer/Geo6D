@@ -163,6 +163,8 @@ python3 main.py --train_list_name train_list.txt --geo6d_mode --exp_name geo6d_1
 ```
 
 ### Evaluate the model
+Download checkpoints and results from [here](https://drive.google.com/drive/folders/19Y727QDrNHXydFomGR3g_QSTRv-Gsx21?usp=drive_link).
+
 Evaluate the model without Geo6D
 ```
 # 10% of the training data
